@@ -6,4 +6,4 @@
 
 ## Screenshot
 
-![Application Screenshot](Screenshot.png)
+![Application Screenshot](HelloWorldLab/Screenshot01.png)
